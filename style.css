@@ -1,0 +1,90 @@
+body{
+    font-family: 'Mouse Memoirs', sans-serif;
+    text-align: center;
+    background-color: #a2d2ff;
+    color: white;
+    text-shadow: 0px 0px 3px black;
+}
+#image{
+    border-radius: 50%;
+    width: 250px;
+    border: 8px solid #efb0c9;
+}
+h1{
+    font-size: 72px;
+    
+}
+h2{
+    font-size: 36px;
+}
+h4{
+    font-size: 20px;
+}
+.arr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section-1{
+    background: #efb0c9;
+    padding: 4px 15px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+.section-2{
+    font-weight: lighter;
+    margin: 5px;
+}
+#pic-2{
+    background-image: url('gift1.jpg');
+    width: 450px;
+    height: 600px;
+    border: 6px solid #efb0c9;
+    border-radius: 10px;
+    background-size: cover;
+    margin: 15px auto;
+}
+#pic-2:hover{
+    background-image: url('200w.webp');
+}
+#pic-3{
+    background-image: url('gift1.jpg');
+    width: 450px;
+    height: 600px;
+    border: 6px solid #efb0c9;
+    border-radius: 10px;
+    background-size: cover;
+    margin: 15px auto;
+}
+
+#pic-3:hover{
+    background-image: url('200.webp');
+}
+
+#pic-4{
+    background-image: url('gift1.jpg');
+    width: 450px;
+    height: 600px;
+    border: 6px solid #efb0c9;
+    border-radius: 10px;
+    background-size: cover;
+    margin: 15px auto;
+}
+
+#pic-4:hover{
+    background-image: url('300w.webp');
+}
+
+#pic-5{
+    background-image: url('gift1.jpg');
+    width: 450px;
+    height: 600px;
+    border: 6px solid #efb0c9;
+    border-radius: 10px;
+    background-size: cover;
+    margin: 15px auto;
+}
+
+#pic-5:hover{
+    background-image: url('300.webp');
+}
